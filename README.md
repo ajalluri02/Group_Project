@@ -1,5 +1,5 @@
 # Group Project Proposal
-### Project Title: Income & Racial Disparities in Transportation in metro-Detroit
+### Project Title: Demographic Disparities in Transportation in metro-Detroit
 ### Group Name: Motor City Motor Equity
 ### Group Member: Akshay Jalluri
 
