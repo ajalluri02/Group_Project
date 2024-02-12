@@ -34,3 +34,6 @@ I plan to visualize data of different travel behavior patterns within metro-Detr
 
 ## Conclusion
 Some of the insights I plan to gain from this research is seeing who are the real population groups that are actually facing the transportation access challenges. Are there any groups that are talked about in the media but in reality actually left out? I can also see what kind of transportation investments are being made and if that is actually optimal in order to meet the transportation equity needs as observed for the map, or should I recommend the government to split funding in a different way to more effectively meet the equity needs. Answering these questions with data-driven accuracy is one small step closer in fullfilling my lifetime dream and this can help fix one of the big issues that is still holding Detroit back from achieving its full potential to thrive as a city. 
+
+# Status Update
+Everything is going good!
