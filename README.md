@@ -1,7 +1,7 @@
-# Group Project Proposal
+#Proposal
 ### Project Title: Demographic Disparities in Transportation in metro-Detroit
-### Group Name: Motor City Motor Equity
-### Group Member: Akshay Jalluri
+### Project Name: Motor City Motor Equity
+### Member(s): Akshay Jalluri
 
 ## Introduction of Research Question
 My research question is to determine the trends between transportaion access and race in certain areas within metro-Detroit. Are there certain types of demographic populations that have unequal access to the same transportation needs as other populations? Through this research analysis, we will be able to better determine trends and be able to identify which geographic areas are lagging behind in terms of transportation access and what can be done to fix it. This analysis will also help Michigan Department of Transportation (MDOT) and Detroit Department of Transportation (DDOT) accurately determine where additional investments must be made in order to efficinetly meet equity needs of the population.
