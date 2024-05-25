@@ -17,7 +17,7 @@ The spatial scope of this project will be looking at all the cencus traccts that
 
 ## Data Source
 **2022 Demographics by Census Tract:** This dataset provides a breakdown of aggregate demographic characteristics for each area. This includes gender, age, race, and citizen/non-citizen data. We can use this data to see trends of demographics for different areas and relate it to travel behavior patterns for those areas (from Data Set 1) to find correlations between different demographic characteristics and travel behavior and give us a better idea of how racially equitable different transportation systems are, and if there are any certain groups that could possibly be left out.
-https://data.census.gov/table/ACSDP1Y2022.DP05?q=demographics%20by%20place
+https://data.census.gov/table/ACSDP1Y2022.DP05?q=demographics%20by%20place](https://data.census.gov/table/DECENNIALDP2020.DP1?q=race%20by%20census%20track&t=Race%20and%20Ethnicity&g=040XX00US06$1400000
 
 **Metro-Detroit Shapefiles:** This is a shapefile of Michigan and it is broken down into the different zones that the other datasets are broken down into. This will give a better spatial representation of different trends that I am able to find, and I will be using this file to make these visualizations. This has shapefiles of all the states, but I am just choosing Michigan for now, but that is subject to change later on if I want to include other states in my study.
 https://www2.census.gov/geo/tiger/TIGER_RD18/STATE/26_MICHIGAN/26/
